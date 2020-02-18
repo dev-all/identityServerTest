@@ -1,0 +1,14 @@
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.identity.Server.Api\bin\Debug\netcoreapp2.2\All.Identity.Server.Api.deps.json
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.identity.Server.Api\bin\Debug\netcoreapp2.2\All.Identity.Server.Api.runtimeconfig.json
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.identity.Server.Api\bin\Debug\netcoreapp2.2\All.Identity.Server.Api.runtimeconfig.dev.json
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.identity.Server.Api\bin\Debug\netcoreapp2.2\All.Identity.Server.Api.dll
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.identity.Server.Api\obj\Debug\netcoreapp2.2\All.Identity.Server.Api.csprojAssemblyReference.cache
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.identity.Server.Api\obj\Debug\netcoreapp2.2\All.Identity.Server.Api.csproj.CoreCompileInputs.cache
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.identity.Server.Api\obj\Debug\netcoreapp2.2\All.Identity.Server.Api.RazorAssemblyInfo.cache
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.identity.Server.Api\obj\Debug\netcoreapp2.2\All.Identity.Server.Api.RazorAssemblyInfo.cs
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.identity.Server.Api\obj\Debug\netcoreapp2.2\All.Identity.Server.Api.AssemblyInfoInputs.cache
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.identity.Server.Api\obj\Debug\netcoreapp2.2\All.Identity.Server.Api.AssemblyInfo.cs
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.identity.Server.Api\obj\Debug\netcoreapp2.2\All.Identity.Server.Api.RazorTargetAssemblyInfo.cache
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.identity.Server.Api\bin\Debug\netcoreapp2.2\All.Identity.Server.Api.pdb
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.identity.Server.Api\obj\Debug\netcoreapp2.2\All.Identity.Server.Api.dll
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.identity.Server.Api\obj\Debug\netcoreapp2.2\All.Identity.Server.Api.pdb

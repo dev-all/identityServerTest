@@ -1,0 +1,11 @@
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.Identity.Server.Console.Test\bin\Debug\netcoreapp2.2\All.Identity.Server.Console.Test.deps.json
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.Identity.Server.Console.Test\bin\Debug\netcoreapp2.2\All.Identity.Server.Console.Test.runtimeconfig.json
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.Identity.Server.Console.Test\bin\Debug\netcoreapp2.2\All.Identity.Server.Console.Test.runtimeconfig.dev.json
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.Identity.Server.Console.Test\bin\Debug\netcoreapp2.2\All.Identity.Server.Console.Test.dll
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.Identity.Server.Console.Test\obj\Debug\netcoreapp2.2\All.Identity.Server.Console.Test.csprojAssemblyReference.cache
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.Identity.Server.Console.Test\obj\Debug\netcoreapp2.2\All.Identity.Server.Console.Test.csproj.CoreCompileInputs.cache
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.Identity.Server.Console.Test\obj\Debug\netcoreapp2.2\All.Identity.Server.Console.Test.AssemblyInfoInputs.cache
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.Identity.Server.Console.Test\obj\Debug\netcoreapp2.2\All.Identity.Server.Console.Test.AssemblyInfo.cs
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.Identity.Server.Console.Test\bin\Debug\netcoreapp2.2\All.Identity.Server.Console.Test.pdb
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.Identity.Server.Console.Test\obj\Debug\netcoreapp2.2\All.Identity.Server.Console.Test.dll
+F:\.Net Core\web.api.net\all.Identity.Server\All.Identity.Server\All.Identity.Server.Console.Test\obj\Debug\netcoreapp2.2\All.Identity.Server.Console.Test.pdb

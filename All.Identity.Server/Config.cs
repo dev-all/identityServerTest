@@ -14,7 +14,7 @@ namespace All.Identity.Server
         {
             return new ApiResource[]
             {
-                new ApiResource("reourceAll", "Recurso al q puede acceder el cliente ")
+                new ApiResource("resourceAll", "Recurso al q puede acceder el cliente ")
 
 
             };
@@ -34,7 +34,7 @@ namespace All.Identity.Server
                     AllowedGrantTypes = GrantTypes.ClientCredentials,
                     ClientSecrets = { new Secret("claveQueSeDaAlCliente".Sha256()) },
 
-                    AllowedScopes = { "reourceAll" }
+                    AllowedScopes = { "resourceAll" }
                 },
                 
                 // client credentials flow client
@@ -46,7 +46,7 @@ namespace All.Identity.Server
                     AllowedGrantTypes = GrantTypes.ClientCredentials,
                     ClientSecrets = { new Secret("claveParaMauricio".Sha256()) },
 
-                    AllowedScopes = { "reourceAll" }
+                    AllowedScopes = { "resourceAll" }
                 }
 
             };
